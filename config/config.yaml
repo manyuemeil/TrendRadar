@@ -71,7 +71,7 @@ platforms:
     name: "虎扑"
   - id: "ithome"
     name: "IT之家"
-    - id: "jin10"
+  - id: "jin10"
     name: "金十数据"
   - id: "juejin"
     name: "稀土掘金"
