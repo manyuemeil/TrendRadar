@@ -99,5 +99,4 @@ platforms:
     name: "雪球"
   - id: "zaobao"
     name: "联合早报"
-  - id: "zhihu"
-    name: "知乎"
+
